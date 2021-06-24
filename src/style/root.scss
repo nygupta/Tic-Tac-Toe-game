@@ -1,8 +1,8 @@
 
 $green: #12e177;
 $orange: #ffc72a;
-$blue: #4c43d4;
-
+$blue: #766dee;
+$dark-blue: #060241;
 body {
   font-family: 'Roboto', sans-serif;
   background-color: $blue;
@@ -33,6 +33,10 @@ button {
 
 .text-orange {
   color: $orange;
+}
+
+.text-dark-blue {
+  color: $dark-blue;
 }
 
 .history-wrapper {
